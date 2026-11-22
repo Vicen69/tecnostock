@@ -1,0 +1,23 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entornos / secretos
+.env
+*.env
+secrets.*
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+*~
+
+# Configuración local del editor
+.vscode/
+.idea/
