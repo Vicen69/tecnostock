@@ -53,7 +53,7 @@ Sistema web de control de inventario desarrollado en **PHP** con **MySQL/MariaDB
 El script `sql/tecnostock.sql` crea el usuario:
 
 - Correo: `admin@tecnostock.cl`
-- Clave: almacenada como hash bcrypt (debes conocer la clave original o actualizar el hash).
+- Clave: `admin123`
 
 > Nota: el usuario por defecto de XAMPP es `root` sin contraseña. En un entorno real cambia estas credenciales.
 
