@@ -1,1 +1,62 @@
-IyBUZWNub1N0b2NrCgpTaXN0ZW1hIHdlYiBkZSBjb250cm9sIGRlIGludmVudGFyaW8gZGVzYXJyb2xsYWRvIGVuICoqUEhQKiogY29uICoqTXlTUUwvTWFyaWFEQioqLCBwZW5zYWRvIHBhcmEgZWplY3V0YXJzZSBjb24gKipYQU1QUCoqLgoKIyMgRnVuY2lvbmFsaWRhZGVzCgotIEluaWNpbyBkZSBzZXNpw7NuIGNvbiBjb3JyZW8geSBjbGF2ZSAoY29udHJhc2XDsWFzIGhhc2hlYWRhcyBjb24gYHBhc3N3b3JkX2hhc2hgKS4KLSBHZXN0acOzbiBkZSBwcm9kdWN0b3M6IGxpc3RhZG8gY29uIGLDunNxdWVkYSwgYWx0YSwgZWRpY2nDs24geSBkZXNhY3RpdmFjacOzbi4KLSBSZWdpc3RybyBkZSBtb3ZpbWllbnRvcyBkZSBpbnZlbnRhcmlvIChlbnRyYWRhcyB5IHNhbGlkYXMpIGNvbiBoaXN0b3JpYWwuCi0gQ29udHJvbCBkZSBzdG9jayBhY3R1YWwgeSBzdG9jayBtw61uaW1vIHBvciBwcm9kdWN0by4KLSBDYXRlZ29yw61hcyBkZSBwcm9kdWN0b3MuCi0gSW50ZXJmYXogY29uIEJvb3RzdHJhcCA1LgoKIyMgRXN0cnVjdHVyYSBkZWwgcmVwb3NpdG9yaW8KCnwgQXJjaGl2byAvIGNhcnBldGEgfCBEZXNjcmlwY2nDs24gfAp8IC0tLSB8IC0tLSB8CnwgYGluZGV4LnBocGAgfCBJbmljaW8gZGUgc2VzacOzbiB8CnwgYGF1dGgucGhwYCB8IFZlcmlmaWNhY2nDs24gZGUgc2VzacOzbiB8CnwgYGNvbmV4aW9uLnBocGAgfCBDb25leGnDs24gUERPIGEgTXlTUUwgfAp8IGBpbmljaW8ucGhwYCB8IFBhbmVsIHByaW5jaXBhbCB8CnwgYHByb2R1Y3Rvcy5waHBgIHwgTGlzdGFkbyB5IGLDunNxdWVkYSBkZSBwcm9kdWN0b3MgfAp8IGBwcm9kdWN0b19mb3JtLnBocGAgfCBBbHRhIHkgZWRpY2nDs24gZGUgcHJvZHVjdG9zIHwKfCBgbW92aW1pZW50b3MucGhwYCB8IEVudHJhZGFzLCBzYWxpZGFzIGUgaGlzdG9yaWFsIHwKfCBgaGVhZGVyLnBocGAgLyBgZm9vdGVyLnBocGAgfCBQbGFudGlsbGEgSFRNTCBjb21wYXJ0aWRhIHwKfCBgbG9nb3V0LnBocGAgfCBDaWVycmUgZGUgc2VzacOzbiB8CnwgYHNxbC90ZWNub3N0b2NrLnNxbGAgfCBCYXNlIGRlIGRhdG9zLCB0YWJsYXMgeSBkYXRvcyBpbmljaWFsZXMgKGFyY2hpdm8gw7puaWNvKSB8CgojIyBSZXF1aXNpdG9zCgotIFhBTVBQIChBcGFjaGUsIFBIUCA3LjQgbyBzdXBlcmlvciwgTXlTUUwvTWFyaWFEQikKLSBOYXZlZ2Fkb3Igd2ViCgojIyBJbnN0YWxhY2nDs24KCjEuIENvcGlhIGVzdGEgY2FycGV0YSBkZW50cm8gZGUgYHhhbXBwL2h0ZG9jcy9gIChwb3IgZWplbXBsbyBgaHRkb2NzL1RlY25vc3RvY2tgKS4KMi4gSW5pY2lhIEFwYWNoZSB5IE15U1FMIGRlc2RlIGVsIHBhbmVsIGRlIFhBTVBQLgozLiBJbXBvcnRhIGVsIHNjcmlwdCBTUUwgZGVzZGUgcGhwTXlBZG1pbiBvIGxhIGzDrW5lYSBkZSBjb21hbmRvczoKICAgYGBgYmFzaAogICBteXNxbCAtdSByb290IDwgc3FsL3RlY25vc3RvY2suc3FsCiAgIGBgYAo0LiBBanVzdGEgbG9zIGRhdG9zIGRlIGNvbmV4acOzbiBlbiBgY29uZXhpb24ucGhwYCBzaSB0dSBNeVNRTCB1c2Egb3RybyB1c3VhcmlvIG8gY29udHJhc2XDsWE6CiAgIGBgYHBocAogICAkaG9zdCA9ICdsb2NhbGhvc3QnOwogICAkZGIgICA9ICd0ZWNub3N0b2NrJzsKICAgJHVzZXIgPSAncm9vdCc7CiAgICRwYXNzID0gJyc7CiAgIGBgYAo1LiBBYnJlIGBodHRwOi8vbG9jYWxob3N0L1RlY25vc3RvY2svYCBlbiBlbCBuYXZlZ2Fkb3IuCgojIyBVc3VhcmlvIGluaWNpYWwKCkVsIHNjcmlwdCBgc3FsL3RlY25vc3RvY2suc3FsYCBjcmVhIGVsIHVzdWFyaW86CgotIENvcnJlbzogYGFkbWluQHRlY25vc3RvY2suY2xgCi0gQ2xhdmU6IGFsbWFjZW5hZGEgY29tbyBoYXNoIGJjcnlwdCAoZGViZXMgY29ub2NlciBsYSBjbGF2ZSBvcmlnaW5hbCBvIGFjdHVhbGl6YXIgZWwgaGFzaCkuCgo+IE5vdGE6IGVsIHVzdWFyaW8gcG9yIGRlZmVjdG8gZGUgWEFNUFAgZXMgYHJvb3RgIHNpbiBjb250cmFzZcOxYS4gRW4gdW4gZW50b3JubyByZWFsIGNhbWJpYSBlc3RhcyBjcmVkZW5jaWFsZXMuCgojIyBUZWNub2xvZ8OtYXMKClBIUCDCtyBQRE8gwrcgTXlTUUwgwrcgQm9vdHN0cmFwIDUgwrcgWEFNUFAK
+# TecnoStock
+
+Sistema web de control de inventario desarrollado en **PHP** con **MySQL/MariaDB**, pensado para ejecutarse con **XAMPP**.
+
+## Funcionalidades
+
+- Inicio de sesión con correo y clave (contraseñas hasheadas con `password_hash`).
+- Gestión de productos: listado con búsqueda, alta, edición y desactivación.
+- Registro de movimientos de inventario (entradas y salidas) con historial.
+- Control de stock actual y stock mínimo por producto.
+- Categorías de productos.
+- Interfaz con Bootstrap 5.
+
+## Estructura del repositorio
+
+| Archivo / carpeta | Descripción |
+| --- | --- |
+| `index.php` | Inicio de sesión |
+| `auth.php` | Verificación de sesión |
+| `conexion.php` | Conexión PDO a MySQL |
+| `inicio.php` | Panel principal |
+| `productos.php` | Listado y búsqueda de productos |
+| `producto_form.php` | Alta y edición de productos |
+| `movimientos.php` | Entradas, salidas e historial |
+| `header.php` / `footer.php` | Plantilla HTML compartida |
+| `logout.php` | Cierre de sesión |
+| `sql/tecnostock.sql` | Base de datos, tablas y datos iniciales (archivo único) |
+
+## Requisitos
+
+- XAMPP (Apache, PHP 7.4 o superior, MySQL/MariaDB)
+- Navegador web
+
+## Instalación
+
+1. Copia esta carpeta dentro de `xampp/htdocs/` (por ejemplo `htdocs/Tecnostock`).
+2. Inicia Apache y MySQL desde el panel de XAMPP.
+3. Importa el script SQL desde phpMyAdmin o la línea de comandos:
+   ```bash
+   mysql -u root < sql/tecnostock.sql
+   ```
+4. Ajusta los datos de conexión en `conexion.php` si tu MySQL usa otro usuario o contraseña:
+   ```php
+   $host = 'localhost';
+   $db   = 'tecnostock';
+   $user = 'root';
+   $pass = '';
+   ```
+5. Abre `http://localhost/Tecnostock/` en el navegador.
+
+## Usuario inicial
+
+El script `sql/tecnostock.sql` crea el usuario:
+
+- Correo: `admin@tecnostock.cl`
+- Clave: almacenada como hash bcrypt (debes conocer la clave original o actualizar el hash).
+
+> Nota: el usuario por defecto de XAMPP es `root` sin contraseña. En un entorno real cambia estas credenciales.
+
+## Tecnologías
+
+PHP · PDO · MySQL · Bootstrap 5 · XAMPP
