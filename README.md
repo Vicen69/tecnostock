@@ -273,4 +273,4 @@ Los casos de prueba, los datos usados y sus resultados están documentados en **
 ## 11. Enlaces
 
 - **Repositorio GitHub:** https://github.com/Vicen69/tecnostock
-- **Video explicativo:** [TecnoStock_final.mp4](../Escritorio/edicion/tecnostock_final.mp4) (4:55, 1920×1080, 60 fps). La versión publicada en GitHub debe sustituirse por el enlace del vídeo alojado.
+- **Video explicativo:** https://youtu.be/IJGWFqwM-ms (4:55).
